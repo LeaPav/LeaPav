@@ -1,7 +1,7 @@
 ## Hey, I'm Lea!👋
 
 🎮 Passionate about Video Games and programming<br>
-👩🏼‍🎓I'm studying Game Development at the Gaming Campus G.Tech school in Paris, France<br>
+👩🏼‍🎓I'm studying Game Development at the Gaming Campus [G.Tech](https://gamingcampus.fr/ecoles/ecole-developpeur-jeux-video-g-tech.html) school in Paris, France<br>
 🫧Currently Learning C++ and C#
 
 ## 🌐 Socials:
