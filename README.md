@@ -1,15 +1,92 @@
-## Hey, I'm Lea!👋
+# Hey, I'm Lea!👋
 
-🎮 Passionate about Video Games and programming<br>
-👩🏼‍🎓I'm studying Game Development at the Gaming Campus [G.Tech](https://gamingcampus.fr/ecoles/ecole-developpeur-jeux-video-g-tech.html) school in Paris, France<br>
-🫧Currently Learning C++ and C#
+🎮 Game Development student <br>
+💻 Unreal Engine 5 (C++ / Blueprint) & Unity (C#)  
+📍 I'm studying Game Development at the Gaming Campus [G.Tech](https://gamingcampus.fr/ecoles/ecole-developpeur-jeux-video-g-tech.html) school in Paris, France<br>
+🫧 Currently looking for a 2-month Gameplay Programming Internship  
 
+---
+## 🎯 About Me
+
+I’m a second-year Game Development student focused on gameplay systems and game architecture.
+
+Over the past two years, I’ve worked on projects ranging from low-level C++ games (SFML) to multiplayer gameplay systems in Unreal Engine 5.  
+I’m particularly interested in AI systems, combat mechanics, and multiplayer logic.
+
+---
+## 🚀 Featured Projects
+
+### 🔫 Multiplayer FPS – Unreal Engine 5.6
+2-week competitive FPS project (2–4 players).
+
+- Listen Server architecture (LAN – Null Subsystem)  
+- Server-authoritative gameplay (RPC & validation)  
+- Session management (Host / Join system)  
+- Score handling via GameMode & PlayerState  
+
+🔗 Repository: [StrafTactik](https://github.com/LeaPav/StrafTactik)  
+
+---
+
+### 🤖 Arena Shooter – Unreal Engine 5
+Large collaborative project (full class + art school).
+
+- Implementation of multiple enemy AIs (flying, chase, sniper)  
+- Combat mechanics (projectiles, attack logic)  
+- End screens & gameplay feedback systems  
+- Level produced as part of a multi-team production pipeline  
+
+🎥 Gameplay Video: 
+
+---
+
+### 🧠 AI Systems Project – C++
+Academic project focused on AI techniques.
+
+- Finite State Machines (FSM)  
+- Behavior Trees  
+- Pathfinding implementation  
+- Comparative implementation of different AI behaviors  
+
+---
+
+### 🚀 Shoot’em Up – C++ / SFML
+3-week project focused on core gameplay implementation.
+
+- Main gameplay mechanics  
+- Bonus system  
+- Boss fight design and behavior implementation  
+- Menu system & structured project architecture  
+
+---
+
+## 🛠 In Progress
+
+### ⚙️ Custom Game Engine (5-week project)
+Currently developing a small custom engine to better understand:
+
+- Game loop architecture  
+- Rendering pipeline basics  
+- System organization  
+- Engine-level structure  
+
+---
+
+### 🧩 Other Academic Projects
+
+- Encapsulation-focused game prototype (SFML, C++)
+- Zelda-like prototype (SFML, C++) 
+- Platformer (collaborative mini-studio project) (SFML, C++) 
+- Runner (SFML, C++)  
+- Mathematics library (C++)  
+
+---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lea-pavel/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leapavel.pro@gmail.com) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LeaPav&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=LeaPav&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeaPav&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
