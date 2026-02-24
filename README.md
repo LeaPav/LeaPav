@@ -48,6 +48,8 @@ Academic project focused on AI techniques.
 - Pathfinding implementation  
 - Comparative implementation of different AI behaviors  
 
+🔗 Repository: [Projet IA](https://github.com/LeaPav/Projet_IA)
+
 ---
 
 ### 🚀 Shoot’em Up – C++ / SFML
@@ -57,6 +59,8 @@ Academic project focused on AI techniques.
 - Bonus system  
 - Boss fight design and behavior implementation  
 - Menu system & structured project architecture  
+
+🔗 Repository: [StarWater](https://github.com/LeaPav/shoot-em-up)
 
 ---
 
@@ -74,11 +78,11 @@ Currently developing a small custom engine to better understand:
 
 ### 🧩 Other Academic Projects
 
-- Encapsulation-focused game prototype (SFML, C++)
-- Zelda-like prototype (SFML, C++) 
-- Platformer (collaborative mini-studio project) (SFML, C++) 
-- Runner (SFML, C++)  
-- Mathematics library (C++)  
+- Encapsulation-focused game prototype (SFML, C++) [Escape The Dungeon](https://github.com/LeaPav/EscapeTheDungeon)
+- Zelda-like prototype (SFML, C++) [Zelda2D](https://github.com/Spenzayt/zelda2d)
+- Platformer (collaborative mini-studio project) (SFML, C++)  [Soleos Rise of the Light](https://github.com/LeaPav/Soleos-Rise-of-the-Light)
+- Runner (SFML, C++) [StarRunner](https://github.com/LeaPav/StarRunner) 
+- Mathematics library (C++)  [Math Library](https://github.com/GamingCampus-MillieBourgois-25-26/3d-geometry-lea-et-maelyne)
 
 ---
 ## 🌐 Socials:
