@@ -3,7 +3,7 @@
 🎮 Game Development student <br>
 💻 Unreal Engine 5 (C++ / Blueprint) & Unity (C#)  
 📍 I'm studying Game Development at the Gaming Campus [G.Tech](https://gamingcampus.fr/ecoles/ecole-developpeur-jeux-video-g-tech.html) school in Paris, France<br>
-🫧 Currently looking for a 2-month Gameplay Programming Internship  
+<!--🫧 Currently looking for a 2-month Gameplay Programming Internship  -->
 
 ---
 ## 🎯 About Me
@@ -64,8 +64,6 @@ Academic project focused on AI techniques.
 
 ---
 
-## 🛠 In Progress
-
 ### ⚙️ Custom Game Engine (5-week project)
 Currently developing a small custom engine to better understand:
 
@@ -73,6 +71,19 @@ Currently developing a small custom engine to better understand:
 - Rendering pipeline basics  
 - System organization  
 - Engine-level structure  
+
+---
+
+### ⛰️​ Custom Engine Game – C++ (3-week project)
+
+Game developed on a custom engine created by a separate team.
+
+- Implementation of gameplay systems using C++ scripting  
+- Integration with an existing engine architecture  
+- Understanding and use of engine-side systems (entities, update loop, etc.)  
+- Focus on gameplay logic within engine constraints  
+
+🔗 Repository: [Echoes of the Cave](https://github.com/LeaPav/Echoes-of-the-Cave)
 
 ---
 
