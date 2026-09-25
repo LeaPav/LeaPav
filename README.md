@@ -13,7 +13,7 @@ I'm a third-year Game Development student focused on gameplay systems and game a
 Over the past two years, I've worked on projects ranging from low-level C++ games (SFML) to multiplayer gameplay systems in Unreal Engine 5, and built a custom 3D engine from scratch (ECS, DirectX 11 rendering, scripting).
 I'm particularly interested in AI systems, combat mechanics, and multiplayer logic.
 
-🌐 Full portfolio: [leapav.github.io/lea-pavel-portfolio](https://leapav.github.io/lea-pavel-portfolio)
+<!-- 🌐 Full portfolio: [leapav.github.io/lea-pavel-portfolio](https://leapav.github.io/lea-pavel-portfolio) -->
 
 ---
 ## 🚀 Featured Projects
